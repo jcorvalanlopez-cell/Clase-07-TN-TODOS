@@ -11,5 +11,4 @@ formateo general del documento
 *Encabezado y pie de paginas
 *Alineacion de parrafos
 
-Adjunto link [[Archivo]]
-
+Adjunto link [[Archivo]](https://docs.google.com/document/d/1ga5s9-ft6OPE92YBq-awWaMK5kraDw5fGzTCexe1t8c/edit?usp=sharing)
